@@ -1,0 +1,65 @@
+id,bert_prediction,llama_prediction
+0,"ORG: Sioux Falls Arena | LOCATION: Sioux Falls , South Dakota","LOCATION: Sioux Falls, South Dakota | ORG: Sioux Falls Arena"
+1,"PERSON: George Randolph Hearst , Jr .","PERSON: George Randolph Hearst, Jr."
+2,"LOCATION: Conch Key , Florida","LOCATION: Conch Key, Florida"
+3,"ORG: Simply Red, Bad Romance | PERSON: Lady Gaga","PERSON: Simply Red, Lady Gaga"
+4,"PERSON: Ice Cube, Dr . Dre","PERSON: Ice Cube, Dr. Dre"
+5,PERSON: Zina Garrison - Jackson,PERSON: Zina Garrison-Jackson
+6,PERSON: Bruno Ruffo,PERSON: Bruno Ruffo
+7,"ORG: Almere City, Chiangrai United","LOCATION: Almere, Chiangrai | ORG: Almere City, Chiangrai United"
+8,"LOCATION: Crail, Fife","LOCATION: Crail, Fife"
+9,LOCATION: Panamá,LOCATION: Panamá
+10,PERSON: Adolphe,PERSON: Adolphe
+11,"PERSON: Tom Clancy, Mario Puzo","PERSON: Tom Clancy, Mario Puzo"
+12,LOCATION: Edinburgh,LOCATION: Edinburgh
+13,ORG: Fireball Cinnamon Whisky,O
+14,PERSON: Sringeri Sharada Peetham,ORG: Sringeri Sharada Peetham
+15,PERSON: Dwayne Smith,PERSON: Dwayne Smith
+16,PERSON: Sydney Thompson Dobell,PERSON: Sydney Thompson Dobell
+17,LOCATION: Rome,LOCATION: Rome
+18,LOCATION: La Puebla de Cazalla,LOCATION: La Puebla de Cazalla
+19,ORG: Parodius ( series ),O
+20,LOCATION: River Plate,ORG: River Plate
+21,PERSON: Antiochus III of Commagene,PERSON: Antiochus III of Commagene
+22,PERSON: High Sheriff of Suffolk,LOCATION: Suffolk
+23,"LOCATION: Pinar del Río, Cuba","LOCATION: Pinar del Río, Cuba"
+24,"LOCATION: Highland Township , Oakland County , Michigan","LOCATION: Highland Township, Oakland County, Michigan"
+25,PERSON: John Towers ( bishop ),PERSON: John Towers
+26,LOCATION: Seoul,LOCATION: Seoul
+27,LOCATION: Marco Polo sheep,PERSON: Marco Polo
+28,PERSON: Johan Göransson Gyllenstierna,PERSON: Johan Göransson Gyllenstierna
+29,LOCATION: Bicyclus golo,O
+30,LOCATION: Brazo de Platino ( hair,LOCATION: Brazo de Platino
+31,PERSON: Jeff Burton,PERSON: Jeff Burton
+32,"LOCATION: Wandina , Western Australia","LOCATION: Wandina, Western Australia"
+33,"ORG: Kalamazoo College | LOCATION: Kalamazoo , Michigan","LOCATION: Kalamazoo, Michigan | ORG: Kalamazoo College"
+34,ORG: It ' s Everly Time,O
+35,ORG: D36 highway,O
+36,O,O
+37,LOCATION: Bârlogu River ( Robești ),"LOCATION: Bârlogu River, Robești"
+38,ORG: National Harmony Party,"ORG: National Harmony Party, Tautas Saskaņas Partija, TSP"
+39,PERSON: Mariana Victoria of Spain,"PERSON: Mariana Victoria, Spain | LOCATION: Spain"
+40,PERSON: Andrew Gaze | ORG: Melbourne Tigers,PERSON: Andrew Gaze | ORG: Melbourne Tigers
+41,PERSON: Francisco Mora y Borrell,PERSON: Francisco Mora y Borrell
+42,LOCATION: Vila da Praia da Vitoria,LOCATION: Vila da Praia da Vitoria
+43,ORG: IUCN Red List of Threatened Species,ORG: IUCN
+44,"LOCATION: Lone Mountain , San Francisco","LOCATION: Lone Mountain, San Francisco"
+45,PERSON: Carlos Sánchez García,PERSON: Carlos Sánchez García
+46,LOCATION: Big Lagoon State Park,LOCATION: Big Lagoon
+47,"LOCATION: Saint Paul , Minnesota, U . S .","LOCATION: Saint Paul, Minnesota, U.S."
+48,PERSON: Håkon Kyllingmark | ORG: Ministry of Transport and Communications ( Norway ),PERSON: Håkon Kyllingmark | LOCATION: Norway | ORG: Ministry of Transport and Communications
+49,LOCATION: France,LOCATION: France
+50,"LOCATION: Carthay , Los Angeles",LOCATION: Los Angeles
+51,LOCATION: Diocese of Poreč i Pula,"LOCATION: Poreč, Pula | ORG: Diocese of Poreč i Pula"
+52,PERSON: Hansle Parchment,PERSON: Hansle Parchment
+53,"ORG: Conference Premier, Newport County",PERSON: he | ORG: Newport County
+54,ORG: division,O
+55,PERSON: Woh Rehne Waali | ORG: Mehlon Ki,O
+56,LOCATION: Little Harbour East,LOCATION: Little Harbour East
+57,PERSON: Al Jefferson,PERSON: Al Jefferson
+58,PERSON: Trần Hiến Tông,PERSON: Trần Hiến Tông
+59,ORG: Sarawak United People ' s Party,ORG: Sarawak United People's Party
+60,"ORG: Dato Kvirkvelia, FC Alania Vladikavkaz, FC Rubin Kazan, FC Anzhi Makhachkala","PERSON: Dato Kvirkvelia | LOCATION: Vladikavkaz, Kazan, Makhachkala | ORG: FC Alania Vladikavkaz, FC Rubin Kazan, FC Anzhi Makhachkala"
+61,PERSON: John David Burnes,PERSON: John David Burnes
+62,"LOCATION: Skwierzyna, Międzyrzecz, Gorzów Wielkopolski","LOCATION: Skwierzyna, Międzyrzecz, Gorzów Wielkopolski"
+63,ORG: Follin ( disambiguation ),O
